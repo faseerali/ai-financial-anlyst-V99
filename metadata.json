@@ -1,0 +1,5 @@
+{
+  "name": "AI Financial Analyst Assistant V99",
+  "description": "Upload financial data (CSV/Excel) and get instant analysis. This app generates financial statements, key ratios, forecasts, and interactive charts with AI-powered insights, acting as your personal Finance Manager and Analyst.",
+  "requestFramePermissions": []
+}
